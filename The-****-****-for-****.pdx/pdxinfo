@@ -1,0 +1,9 @@
+name=The **** **** for ****
+author=Stray Taco
+description=A tiny game made with Pulp
+bundleID=pulp.straytaco.thefor
+version=1.0
+buildNumber=1
+imagePath=card
+pdxversion=11000
+buildtime=724914703
